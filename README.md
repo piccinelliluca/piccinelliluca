@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Luca Piccinelli
-- 👀 I’m an italian student
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Luca Piccinelli and i'm an italian student.
+- 🌱 I’m currently learning react, but i know C++, Python, HTML/CSS/JS.
 - 📫 You can contact me in this e-mail: luca.piccinelli12@gmail.com
 
 <!---
